@@ -1,16 +1,7 @@
 # flipcard
+This is a thought provoking card game which is an implementation of a question in the Regional Mathematics Olympiad, 2016: https://brilliant.org/discussions/thread/rmo-2016-delhi-region/
 
-A new Flutter project.
+The premise of the game is:
 
-## Getting Started
+The user will choose 5 random cards and then will select 1 final card from the selected cards. The rest of the cards will then be arranged in a permutation computed by an algorithm. Since I know the algorithm, I will be able to figure out the final card just by looking at how the other cards are arranged.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
