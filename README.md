@@ -1,7 +1,8 @@
 # Flipcard
 This is a thought provoking card game which is an implementation of a question in the Regional Mathematics Olympiad, 2016: https://brilliant.org/discussions/thread/rmo-2016-delhi-region/
 
-![alt text](https://github.com/AloxGit/Flipcard/blob/master/demo/demo.gif?raw=true)
+<img src="https://github.com/AloxGit/Flipcard/blob/master/demo/demo.gif" width="250" />
+
 
 The premise of the game is:
 
